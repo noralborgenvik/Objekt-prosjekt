@@ -1,0 +1,6 @@
+Booking: 
+ Navn = John Doe
+ Alder = 30
+ Telefonnummer = 12345678
+ Antall personer = 3
+ Romnummer = 103

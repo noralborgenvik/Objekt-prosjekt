@@ -1,0 +1,24 @@
+Booking: 
+ Navn = Nora Borgenviik
+ Alder = 22
+ Telefonnummer = 98475636
+ Antall personer = 1
+ Romnummer = 101
+Booking: 
+ Navn = Elise
+ Alder = 21
+ Telefonnummer = 87777777
+ Antall personer = 1
+ Romnummer = 102
+Booking: 
+ Navn = Nora hansen
+ Alder = 22
+ Telefonnummer = 88888888
+ Antall personer = 1
+ Romnummer = 103
+Booking: 
+ Navn = Elise olsen
+ Alder = 23
+ Telefonnummer = 77777777
+ Antall personer = 3
+ Romnummer = 105
